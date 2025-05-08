@@ -30,3 +30,7 @@ header h1, a {
 header a:hover {
     color: #fff
 }
+
+header img {
+    height: 80px;
+}

@@ -63,5 +63,7 @@
         height: 350px;
     }
     
-    
+    header img {
+        height: 60px;
+    }
 }
